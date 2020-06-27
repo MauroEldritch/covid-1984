@@ -12,7 +12,7 @@ This is the repository for my talk "COVID-1984: Propaganda and Surveillance duri
 
 ## Venator.lua
 
-![Venator](https://github.com/mauroeldritch/COVID-1984/blob/master/Venator/Venator.png)
+![Venator](https://github.com/mauroeldritch/COVID-1984/blob/master/Docs/Venator.png)
 
 Venator is a tool written in LUA, which aids in the identification of propaganda-related behavior in Twitter accounts.
 It looks for suspicious things like default profile pictures and settings, having fewer followers than followed users, recently created accounts, having lots of random numbers in the handler (as assigned by default by Twitter), interactions between users, hashtags used, and more.
