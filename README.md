@@ -26,4 +26,4 @@ Simply run Venator issuing `./venator.lua help #or lua venator.lua help` to get 
 ## Presentations
 |#| Date | Conference |  Link to Video | Link to Slides |
 |---|---|---|---|---|
-|1| 27-JUN-2020 | DEF CON Red Team Village / Junegle Cyber Summit / Texas Cyber Summit | https://junegle.io/ | https://docs.google.com/presentation/d/1_l5ZL211PQJewNxMAMj6SnYUCjRmftZp11MPLdu_nvc/edit?usp=sharing |
+|1| 27-JUN-2020 | DEF CON Red Team Village / Junegle Cyber Summit / Texas Cyber Summit | https://www.youtube.com/watch?v=2ldvZVAQHTQ | https://docs.google.com/presentation/d/1_l5ZL211PQJewNxMAMj6SnYUCjRmftZp11MPLdu_nvc/edit?usp=sharing |
