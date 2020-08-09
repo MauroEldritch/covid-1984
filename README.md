@@ -27,4 +27,4 @@ Simply run Venator issuing `./venator.lua help #or lua venator.lua help` to get 
 |#| Date | Conference |  Link to Video | Link to Slides |
 |---|---|---|---|---|
 |1| 27-JUN-2020 | DEF CON Red Team Village / Junegle Cyber Summit / Texas Cyber Summit | https://www.youtube.com/watch?v=2ldvZVAQHTQ | https://docs.google.com/presentation/d/1_l5ZL211PQJewNxMAMj6SnYUCjRmftZp11MPLdu_nvc/edit?usp=sharing |
-|2| 08-AUG-2020 | DEF CON Recon Village | - | https://docs.google.com/presentation/d/1hrctTt6m8VciiMFrq_Nm2aiAs3AevbhEAKI_MWcCg9k/edit?usp=sharing |
+|2| 08-AUG-2020 | DEF CON Recon Village | https://youtu.be/Qqy1RiasOR4 | https://docs.google.com/presentation/d/1hrctTt6m8VciiMFrq_Nm2aiAs3AevbhEAKI_MWcCg9k/edit?usp=sharing |
